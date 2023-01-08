@@ -1,3 +1,6 @@
+ <br/>
+ <br/>
+
  <p align="center"><img src="https://palettes.andev.ml/assets/image/icon/128x128.png"/></p>
 
 
@@ -9,11 +12,11 @@
 <p align="center">
 <a href="#details">
     <img src="https://img.shields.io/badge/License-MIT-319046?" alt="License-MIT"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/npm-0.1.0-319046?" alt="NPM Version"/>
+    <img src="https://img.shields.io/badge/npm-0.1.1-319046?" alt="NPM Version"/>
 </a>
 </p>
 
-> [Palettes Generator](https://palettes.andev.ml)
+- [Palettes Generator](https://palettes.andev.ml)
 
 <br/>
 

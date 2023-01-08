@@ -1,8 +1,9 @@
 {
     "name": "@andevjs/palette",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Create variant color palettes from a single color and generate code for them.",
     "author": "André Malveira <andremalveira.dev@gmail.com>",
+    "repository": "https://github.com/andremalveira/palette",
     "license": "MIT",
     "private": false,
     "publishConfig": {
